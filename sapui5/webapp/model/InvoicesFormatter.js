@@ -12,7 +12,7 @@ sap.ui.define([],
                     case 'A': return resourceBundle.getText("StatusA");
                     case 'B': return resourceBundle.getText("StatusB");
                     case 'C': return resourceBundle.getText("StatusC");
-                    default: return Status;
+                    default: return resourceBundle.getText("StatusA");
                 }
             }
         }
