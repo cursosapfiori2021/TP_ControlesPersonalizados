@@ -19,7 +19,7 @@
 
     "dataSources": {
             "mainService": {
-                "uri": "/V2/Northwind/Northwind.svc/",
+                "uri": "/V2/NorthWind/NorthWind.svc",
                 "type": "OData",
                 "settings": {
                     "odataVersion": "2.0",
